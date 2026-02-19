@@ -2,7 +2,7 @@
 *
 
 # Whitelist: Documentation
-!README_new.md
+!README.md
 !e2e-test.md
 !git_setup_guide.md
 
