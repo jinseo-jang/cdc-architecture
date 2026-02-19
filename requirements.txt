@@ -1,0 +1,5 @@
+apache-beam[gcp]
+pyiceberg[gcp,pyarrow]
+pyarrow
+google-auth
+requests

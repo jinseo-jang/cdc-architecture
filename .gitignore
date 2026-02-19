@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+
+# Whitelist: Documentation
+!README_new.md
+!e2e-test.md
+!git_setup_guide.md
+
+# Whitelist: Source Code referenced in Documentation
+!main_pubsub.py
+!setup.py
+!requirements.txt
+!initialize_iceberg_pyspark.py
+!append_iceberg_data_pyspark.py
+
+# Whitelist: Git configuration
+!.gitignore
